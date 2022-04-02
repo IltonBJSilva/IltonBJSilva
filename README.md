@@ -1,16 +1,39 @@
-### Hi there 👋
+## Opa, fala seres humanos eu sou o Ilton Batista, criador de conteúdo de sobre dicas de estudos, tecnologia e livros, e um grande amante de python!
 
-<!--
-**IltonBJSilva/IltonBJSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📴 Atualmente trabalho com infraestrutura de redes e telefonia fixa
+- 📊 Estou aprendendo Python para analise de dados ...
+- 👩‍💻 Faculdade de analise de desenvolvimento de sistema ...
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/IltonBJSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IltonBJSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IltonBJSilva&layout=compact&langs_count=7&theme=react"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ilton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ilton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ilton-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Ilton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ilton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ilton-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ilton-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ilton-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+ 
+
+<div> 
+  <a href="https://www.youtube.com/channel/UCfgsbqzmP0ZyFNNcI7AePkA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/iltonbsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/w7dNqWacZP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:iltonbatista2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ilton-batista-4373b9b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a>
+  <a href="https://www.tiktok.com/@culturaib?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
