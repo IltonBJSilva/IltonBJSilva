@@ -34,6 +34,6 @@
  </a>
   <a href="https://www.tiktok.com/@culturaib?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IltonBJSilva/IltonBJSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
