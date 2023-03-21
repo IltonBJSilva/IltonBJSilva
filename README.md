@@ -48,3 +48,7 @@
   ![Snake animation](https://github.com/IltonBJSilva/IltonBJSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+<h2 align="center">
+<pre><i><a href="https://www.linkedin.com/in/iltonbsilva/" target="_blank">⚙ Difficulties strengthen the mind, as work does the body. ⚙</a></i></pre>
+</h2>
