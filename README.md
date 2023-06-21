@@ -10,55 +10,47 @@
 
 <h3>My Main Projects</h3>
 
-- <a href="https://github.com/IltonBJSilva/game_javascript_01" target="_blank">Flappy Mario Game</a>
-  - Tecnologias Usadas
-    - Javascript
-    - CSS
-    - HTML
-- <a href="https://github.com/IltonBJSilva/IltonBJSilva.github.io" target="_blank">Personal Portfolio</a>
-  - Tecnologias Usadas
-    - Javascript
-    - CSS
-    - HTML
-    - SCSS
-    - SAAS
-    - BOOTSTRAP
-    - JQUERY
-    - MATERIAL-UI
-- <a href="https://github.com/IltonBJSilva/furry-site" target="_blank"> Simple Site </a>
-  - Tecnologias Usadas
-    - Javascript
-    - CSS
-    - HTML
-- <a href="https://github.com/IltonBJSilva/voz_python" target="_blank">Voz Python</a>
-  - Tecnologias Usadas
-    - Python
-    - Libray
-      - playsound
-      - gTTS
-      - pyttsx3
-- <a href="https://github.com/IltonBJSilva/bot-discord" target="_blank">Boot Discord </a>
-  - Tecnologias Usadas
-    - Javascript
-    - API DISCORD JS
-- <a href="https://github.com/IltonBJSilva/book_schedule" target="_blank"> book_schedule </a>
-  - Tecnologias Usadas
-    - Javascript
-    - CSS
-    - HTML
-    - PYTHON
-    - SQLITE
-- <a href="https://github.com/IltonBJSilva/devburguer" target="_blank"> devburguer </a>
-  - Tecnologias Usadas
-    - HTML
-    - PYTHON
-- <a href="https://github.com/IltonBJSilva/adote" target="_blank"> Adote </a>
-  - Tecnologias Usadas
-    - Javascript
-    - CSS
-    - HTML
-    - PYTHON
-    - SQLITE
+<p>
+  <a href="https://github.com/IltonBJSilva/game_javascript_01" target="_blank">Flappy Mario Game</a> -
+  Technologies Used: Javascript, CSS, HTML
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/IltonBJSilva.github.io" target="_blank">Personal Portfolio</a> -
+  Technologies Used: Javascript, CSS, HTML, SCSS, SAAS, BOOTSTRAP, JQUERY, MATERIAL-UI
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/furry-site" target="_blank">Simple Site</a> -
+  Technologies Used: Javascript, CSS, HTML
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/voz_python" target="_blank">Voice Python</a> -
+  Technologies Used: Python, Library: playsound, gTTS, pyttsx3
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/bot-discord" target="_blank">Discord Bot</a> -
+  Technologies Used: Javascript, API DISCORD JS
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/book_schedule" target="_blank">Book Schedule</a> -
+  Technologies Used: Javascript, CSS, HTML, Python, SQLite
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/devburguer" target="_blank">Dev Burguer</a> -
+  Technologies Used: HTML, Python
+</p>
+
+<p>
+  <a href="https://github.com/IltonBJSilva/adote" target="_blank">Adote</a> -
+  Technologies Used: Javascript, CSS, HTML, Python, SQLite
+</p>
+
+
 
 
 <h3>About me</h3>
