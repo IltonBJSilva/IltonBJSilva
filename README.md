@@ -1,69 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
-
-### Hey there 👋,
-
-My name is **Ilton Batista**. I'm studying **information systems**, and I currently work as a Backend Developer in a multinational based in Dublin, I work in Brazil on partner projects using ***Python, GCP, BigQuery, GraphiQL, Machine Learning*** and among other technologies and tools necessary according to the project
-</ul>
-I am passionate about **technology** and personal development. Therefore, I am always looking for new ways of improving, through **books**, media and others. I share my knowledge on some social networks such as Instagram and Linkedin to help and give insights to more people
-I love **coffee**, travel, Japanese culture and spirituality. ☕</ul>
-</ul>
-<!-- Header typing -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;I'm+Ilton+Batista,+22+yo...;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
-
 <h3>My Main Projects</h3>
 
-<p>
-  <a href="https://github.com/IltonBJSilva/game_javascript_01" target="_blank">Flappy Mario Game</a> -
-  Technologies Used: Javascript, CSS, HTML
-</p>
+- <a href="https://github.com/IltonBJSilva/game_javascript_01" target="_blank">Flappy Mario Game</a>
+  - Tecnologias Usadas
+    - Javascript
+    - CSS
+    - HTML
+- <a href="https://github.com/IltonBJSilva/IltonBJSilva.github.io" target="_blank">Personal Portfolio</a>
+  - Tecnologias Usadas
+    - Javascript
+    - CSS
+    - HTML
+    - SCSS
+    - SAAS
+    - BOOTSTRAP
+    - JQUERY
+    - MATERIAL-UI
+- <a href="https://github.com/IltonBJSilva/furry-site" target="_blank"> Simple Site </a>
+  - Tecnologias Usadas
+    - Javascript
+    - CSS
+    - HTML
+- <a href="https://github.com/IltonBJSilva/voz_python" target="_blank">Voz Python</a>
+  - Tecnologias Usadas
+    - Python
+    - Libray
+      - playsound
+      - gTTS
+      - pyttsx3
+- <a href="https://github.com/IltonBJSilva/bot-discord" target="_blank">Boot Discord </a>
+  - Tecnologias Usadas
+    - Javascript
+    - API DISCORD JS
+- <a href="https://github.com/IltonBJSilva/book_schedule" target="_blank"> book_schedule </a>
+  - Tecnologias Usadas
+    - Javascript
+    - CSS
+    - HTML
+    - PYTHON
+    - SQLITE
+- <a href="https://github.com/IltonBJSilva/devburguer" target="_blank"> devburguer </a>
+  - Tecnologias Usadas
+    - HTML
+    - PYTHON
+- <a href="https://github.com/IltonBJSilva/adote" target="_blank"> Adote </a>
+  - Tecnologias Usadas
+    - Javascript
+    - CSS
+    - HTML
+    - PYTHON
+    - SQLITE
 
-<p>
-  <a href="https://github.com/IltonBJSilva/IltonBJSilva.github.io" target="_blank">Personal Portfolio</a> -
-  Technologies Used: Javascript, CSS, HTML, SCSS, SAAS, BOOTSTRAP, JQUERY, MATERIAL-UI
-</p>
 
-<p>
-  <a href="https://github.com/IltonBJSilva/furry-site" target="_blank">Simple Site</a> -
-  Technologies Used: Javascript, CSS, HTML
-</p>
-
-<p>
-  <a href="https://github.com/IltonBJSilva/voz_python" target="_blank">Voice Python</a> -
-  Technologies Used: Python, Library: playsound, gTTS, pyttsx3
-</p>
-
-<p>
-  <a href="https://github.com/IltonBJSilva/bot-discord" target="_blank">Discord Bot</a> -
-  Technologies Used: Javascript, API DISCORD JS
-</p>
-
-<p>
-  <a href="https://github.com/IltonBJSilva/book_schedule" target="_blank">Book Schedule</a> -
-  Technologies Used: Javascript, CSS, HTML, Python, SQLite
-</p>
-
-<p>
-  <a href="https://github.com/IltonBJSilva/devburguer" target="_blank">Dev Burguer</a> -
-  Technologies Used: HTML, Python
-</p>
-
-<p>
-  <a href="https://github.com/IltonBJSilva/adote" target="_blank">Adote</a> -
-  Technologies Used: Javascript, CSS, HTML, Python, SQLite
-</p>
 <h3>About me</h3>
-- 👨‍💻 I am currently a python backend developer working with gpc and bigquery for a multinational
-- 📴 I worked with network infrastructure and fixed telephony...
-- 📊 I have already developed projects in Python/Django for Front-end...
-- 📱 Improving UX and UI skills...
-- 📓 College of information systems ...
-
-
-
+- 📴 I currently work with network infrastructure and fixed telephony...
+- 📊 I'm developing projects in Python/Django for Front-end...
+- 🛰 Improving UX and UI skills...
+- 👩‍💻 College of information systems ...
 <div align="center">
   <a href="https://github.com/IltonBJSilva">
     
@@ -79,11 +71,8 @@ I love **coffee**, travel, Japanese culture and spirituality. ☕</ul>
   <img align="center" alt="Ilton-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ilton-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ilton-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-
-
 ##
  
-
 <div> 
   <a href="https://www.youtube.com/channel/UCfgsbqzmP0ZyFNNcI7AePkA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iltonbsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
