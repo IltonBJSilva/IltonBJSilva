@@ -1,5 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
+### Hey there 👋,
+
+My name is **Ilton Batista**. I'm studying **information systems**, and I currently work as a Backend Developer in a multinational based in Dublin, I work in Brazil on partner projects using ***Python, GCP, BigQuery, GraphiQL, Machine Learning*** and among other technologies and tools necessary according to the project
+</ul>
+I am passionate about **technology** and personal development. Therefore, I am always looking for new ways of improving, through **books**, media and others. I share my knowledge on some social networks such as Instagram and Linkedin to help and give insights to more people
+I love **coffee**, travel, Japanese culture and spirituality. ☕</ul>
+</ul>
 
 <!-- Header typing -->
 <h1 align="center">
@@ -54,11 +61,11 @@
 
 
 <h3>About me</h3>
-
-- 📴 I currently work with network infrastructure and fixed telephony...
-- 📊 I'm developing projects in Python/Django for Front-end...
-- 🛰 Improving UX and UI skills...
-- 👩‍💻 College of information systems ...
+- 👨‍💻 I am currently a python backend developer working with gpc and bigquery for a multinational
+- 📴 I worked with network infrastructure and fixed telephony...
+- 📊 I have already developed projects in Python/Django for Front-end...
+- 📱 Improving UX and UI skills...
+- 📓 College of information systems ...
 
 <div align="center">
   <a href="https://github.com/IltonBJSilva">
