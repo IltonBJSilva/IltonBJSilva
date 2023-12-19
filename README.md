@@ -1,3 +1,18 @@
+### Hey there 👋,
+
+My name is **Ilton Batista**. I'm studying **information systems**, and I currently work as a Backend Developer in a multinational based in Dublin, I work in Brazil on partner projects using Python, ***GCP, BigQuery, GraphiQL, Machine Learning*** and among other technologies and tools necessary according to the project
+
+I am passionate about technology and personal development. Therefore, I am always looking for new ways of improving, through **books**, media and others. I share my knowledge on some social networks such as Instagram and Linkedin to help and give insights to more people
+I love **coffee**, travel, Japanese culture and spirituality. ☕
+<h3>About me</h3>
+
+- 📴 I currently work with network infrastructure and fixed telephony...
+- 📊 I'm developing projects in Python/Django for Front-end...
+- 🛰 Improving UX and UI skills...
+- 👩‍💻 College of information systems ...
+
+
+<!-- Este é um comentário em Markdown 
 <h3>My Main Projects</h3>
 
 - <a href="https://github.com/IltonBJSilva/game_javascript_01" target="_blank">Flappy Mario Game</a>
@@ -49,13 +64,7 @@
     - HTML
     - PYTHON
     - SQLITE
-
-
-<h3>About me</h3>
-- 📴 I currently work with network infrastructure and fixed telephony...
-- 📊 I'm developing projects in Python/Django for Front-end...
-- 🛰 Improving UX and UI skills...
-- 👩‍💻 College of information systems ...
+-->
 <div align="center">
   <a href="https://github.com/IltonBJSilva">
     
@@ -71,7 +80,8 @@
   <img align="center" alt="Ilton-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ilton-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ilton-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-##
+
+  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCfgsbqzmP0ZyFNNcI7AePkA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
