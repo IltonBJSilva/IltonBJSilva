@@ -1,15 +1,15 @@
 ### Hey there 👋,
 
-My name is **Ilton Batista**. I'm studying **information systems**, and I currently work as a Backend Developer in a multinational based in Dublin, I work in Brazil on partner projects using Python, ***GCP, BigQuery, GraphiQL, Machine Learning*** and among other technologies and tools necessary according to the project
+My name is **Ilton Batista**. I'm studying **information systems** in Federal University of Uberlândia, and I currently work as a Software developer in a multinational based in Dublin, I work in Brazil on partner projects using Python, ***GCP, BigQuery, GraphiQL, Machine Learning*** and among other technologies and tools necessary according to the project
 
 I am passionate about technology and personal development. Therefore, I am always looking for new ways of improving, through **books**, media and others. I share my knowledge on some social networks such as Instagram and Linkedin to help and give insights to more people
 I love **coffee**, travel, Japanese culture and spirituality. ☕
 <h3>About me</h3>
 
-- 📴 I currently work with network infrastructure and fixed telephony...
+- 📴I currently work with software development with a specialty in Backend, Database and Systems Infrastructure
 - 📊 I'm developing projects in Python/Django for Front-end...
-- 🛰 Improving UX and UI skills...
-- 👩‍💻 College of information systems ...
+- 🛰 Studying AI and data science
+- 👩‍💻 Studying at the Federal College of Uberlândia in the information systems course
 
 
 <!-- Este é um comentário em Markdown 
@@ -80,6 +80,9 @@ I love **coffee**, travel, Japanese culture and spirituality. ☕
   <img align="center" alt="Ilton-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ilton-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ilton-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Ilton-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ilton-Cplusplus" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ilton-Androidstudio" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
 
   ##
  
