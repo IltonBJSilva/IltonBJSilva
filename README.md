@@ -1,9 +1,14 @@
 ### Hey there 👋,
 
+
 My name is **Ilton Batista**. I'm studying **information systems** in Federal University of Uberlândia, and I currently work as a Software developer in a multinational based in Dublin, I work in Brazil on partner projects using Python, ***GCP, BigQuery, GraphiQL, Machine Learning*** and among other technologies and tools necessary according to the project
 
 I am passionate about technology and personal development. Therefore, I am always looking for new ways of improving, through **books**, media and others. I share my knowledge on some social networks such as Instagram and Linkedin to help and give insights to more people
 I love **coffee**, travel, Japanese culture and spirituality. ☕
+
+
+
+
 <h3>About me</h3>
 
 - 📴I currently work with software development with a specialty in Backend, Database and Systems Infrastructure
@@ -96,7 +101,11 @@ I love **coffee**, travel, Japanese culture and spirituality. ☕
   <a href="https://www.tiktok.com/@culturaib?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/IltonBJSilva/IltonBJSilva/blob/output/github-contribution-grid-snake.svg)
- 
+ <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVhM2Zqa2ZncDEwMm5iY3pkbnVyNmpobWtoM243eHJuY3V5aWxkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp" alt="Imagem">
+</p>
+
 </div>
   
 <h2 align="center">
