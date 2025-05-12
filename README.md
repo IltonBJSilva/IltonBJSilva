@@ -9,7 +9,7 @@ I love **coffee**, travel, Japanese culture and spirituality. ☕
 
  <!-- IMG -->
 <p align="left">
-  <img align="center" src="https://github.com/IltonBJSilva/IltonBJSilva/blob/main/personagem.jpg?raw=true" alt="Imagem">
+  <img align="center" src="https://github.com/IltonBJSilva/IltonBJSilva/blob/main/personagem2.png?raw=true" alt="Imagem">
 </p>
 
 
